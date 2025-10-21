@@ -1,4 +1,4 @@
-## Hi, here is Yifan Wang 👋
+## Hi, I'm Yifan Wang 👋
 
 <!--
 **TheSkyQwQ/TheSkyQwQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
